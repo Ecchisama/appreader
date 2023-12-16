@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086403681271",
+    "firebase_url": "https://khjg-c94ea-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "khjg-c94ea",
+    "storage_bucket": "khjg-c94ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086403681271:android:27820220d97168adb1ecf2",
+        "android_client_info": {
+          "package_name": "com.example.app_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj8fpobbaLinjCFe9UmRZncTkUtiDokDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
